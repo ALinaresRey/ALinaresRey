@@ -1,7 +1,7 @@
 ### Hey,[Albert here!](https://www.linkedin.com/in/albert-linares-rey-57a76710a/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am actualy studying a Superior Degree Cross-platform Application Development . Java, Javascript, HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am actualy studying a Superior Degree Cross-platform Application Development in Madrid (Spain) . Java, Javascript, HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing and Android development**
 - 🌱 I’m currently learning ...
   - Java
