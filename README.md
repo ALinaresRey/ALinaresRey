@@ -17,3 +17,8 @@
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
 </span>
+
+### Here's my github README stats:
+
+![ALinaresRey GitHub stats](https://github-readme-stats.vercel.app/api?username=ALinaresRey&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALinaresRey&theme=radical)](https://git.io/streak-stats) 
