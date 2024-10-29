@@ -10,6 +10,11 @@ I am actualy studying a Superior Degree Cross-platform Application Development i
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech,⚽ I love to play football, 🎵 listen to music, 🎮​ play videogames and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="albe_linares@hotmail.com">albe_linares@hotmail.com</a>
+-🌍 Language Enthusiast: Passionate about learning new languages and exploring diverse cultures. Currently diving into Mandarin Chinese, with proficiency in:
+
+Spanish and Catalan (native)
+English (advanced)
+Portuguese (advanced)
 
 ## My Skills Include
 
@@ -22,7 +27,7 @@ I am actualy studying a Superior Degree Cross-platform Application Development i
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
-
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### Here's my github README stats:
 
