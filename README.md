@@ -9,12 +9,11 @@ I am actualy studying a Superior Degree Cross-platform Application Development i
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech,⚽ I love to play football, 🎵 listen to music, 🎮​ play videogames and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="albe_linares@hotmail.com">albe_linares@hotmail.com</a>
+- 📫 Reach out to me at: <a href="albe_linares@hotmail.com">albe_linares@hotmail.com
 -🌍 Language Enthusiast: Passionate about learning new languages and exploring diverse cultures. Currently diving into Mandarin Chinese, with proficiency in:
-
-Spanish and Catalan (native)
-English (advanced)
-Portuguese (advanced)
+ - Spanish and Catalan (native)
+ - English (advanced)
+ - Portuguese (advanced)</a>
 
 ## My Skills Include
 
