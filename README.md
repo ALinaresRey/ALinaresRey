@@ -8,7 +8,7 @@ I am actualy studying a Superior Degree Cross-platform Application Development i
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, I love to play football, 🎵 listen to music, play videogames and 🌴 explore nature outdoors.
+- Outside tech,⚽ I love to play football, 🎵 listen to music, 🎮​ play videogames and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="albe_linares@hotmail.com">albe_linares@hotmail.com</a>
 
 ## My Skills Include
